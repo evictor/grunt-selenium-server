@@ -13,5 +13,9 @@
   "dependencies": {
     "request": "~2.27.0",
     "progress": "~1.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pifantastic/grunt-selenium-server.git"
   }
 }
